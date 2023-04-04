@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "name": "David",
+      "salary": "5000",
+      "id": 2,
+      "email": "david@gmail.com",
+      "phone": "80940579"
+    },
+    {
+      "name": "bajrang",
+      "email": "iajkfnk@kjnkfna",
+      "phone": "9869854798",
+      "active": true,
+      "id": 3
+    }
+  ]
+}
